@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/atta-website/static/css/main.fc149a6c.chunk.css",
+    "main.js": "/atta-website/static/js/main.07590a66.chunk.js",
+    "main.js.map": "/atta-website/static/js/main.07590a66.chunk.js.map",
+    "runtime-main.js": "/atta-website/static/js/runtime-main.ec25d724.js",
+    "runtime-main.js.map": "/atta-website/static/js/runtime-main.ec25d724.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/atta-website/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.47978aa4.chunk.js": "/atta-website/static/js/2.47978aa4.chunk.js",
+    "static/js/2.47978aa4.chunk.js.map": "/atta-website/static/js/2.47978aa4.chunk.js.map",
+    "index.html": "/atta-website/index.html",
+    "precache-manifest.07f0eb3389408666584056ee3f6e0692.js": "/atta-website/precache-manifest.07f0eb3389408666584056ee3f6e0692.js",
+    "service-worker.js": "/atta-website/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/atta-website/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.fc149a6c.chunk.css.map": "/atta-website/static/css/main.fc149a6c.chunk.css.map",
+    "static/js/2.47978aa4.chunk.js.LICENSE.txt": "/atta-website/static/js/2.47978aa4.chunk.js.LICENSE.txt",
+    "static/media/ars.jpg": "/atta-website/static/media/ars.b4daaa56.jpg",
+    "static/media/atta.jpg": "/atta-website/static/media/atta.d2a3c475.jpg",
+    "static/media/atta1.jpg": "/atta-website/static/media/atta1.56e3646e.jpg",
+    "static/media/lhr.jpg": "/atta-website/static/media/lhr.09f553d9.jpg",
+    "static/media/logo.svg": "/atta-website/static/media/logo.5d5d9eef.svg",
+    "static/media/meo.jpg": "/atta-website/static/media/meo.15ac2b3a.jpg",
+    "static/media/meo1.jpg": "/atta-website/static/media/meo1.970468e8.jpg",
+    "static/media/meo3.jpg": "/atta-website/static/media/meo3.089217e5.jpg",
+    "static/media/meo4.jpg": "/atta-website/static/media/meo4.c7f310b0.jpg",
+    "static/media/meo5.jpg": "/atta-website/static/media/meo5.4b837e5e.jpg",
+    "static/media/meo6.jpg": "/atta-website/static/media/meo6.e225b146.jpg",
+    "static/media/mol.jpg": "/atta-website/static/media/mol.d85b4cde.jpg",
+    "static/media/ol.jpg": "/atta-website/static/media/ol.92fd313b.jpg",
+    "static/media/t2.jpg": "/atta-website/static/media/t2.2be2f109.jpg",
+    "static/media/tariq.jpg": "/atta-website/static/media/tariq.2f21a85b.jpg",
+    "static/media/umar.jpg": "/atta-website/static/media/umar.84e7ff47.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec25d724.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.47978aa4.chunk.js",
+    "static/css/main.fc149a6c.chunk.css",
+    "static/js/main.07590a66.chunk.js"
+  ]
+}
