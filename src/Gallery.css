@@ -1,0 +1,17 @@
+.aaatttaa{
+    
+        animation: agypichy 2s linear infinite;
+        animation-direction: reverse;
+    }
+    @keyframes agypichy {
+        from{ padding-left: 40px;}
+        to {padding-right: 40px;}
+    }
+.kkk{
+    animation: agypichy 2s linear infinite;
+    animation-direction:alternate ;
+}
+@keyframes agypichy {
+    from{ padding-left: 40px;}
+    to {padding-right: 40px;}
+}

@@ -1,13 +1,124 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Play:wght@700&display=swap');
+*{
+  margin: 0; padding: 0; box-sizing: border-box;
+  font-family: 'Architects Daughter', cursive;
+  font-family: 'Play', sans-serif;
+}
+.carousel-item img{
+  width: 100%;
+  height: 100vh;
+}
+.img-lhr{
+  min-width:55%;
+  max-height: 295px;
+}
+.btn-a:hover{
+  color: blue;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 60vmin;
+  align-items: center;
+  pointer-events: none;
+  border-radius: 50%;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 15s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: red;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.brand-name{
+  color: blueviolet;
+  font-weight: bolder;
+}
+.atta{
+  background: #a6dcef;
+}
+.navbar{
+  background-color: #fff!important;
+}
+.navbar-brand{
+  font-size: 2rem!important;
+  color: #565387!important;
+
+}
+.navbar a{
+  font-size: 1.3rem;
+  text-transform: capitalize;
+}
+.menu_active{
+  font-weight: bold; border-bottom: 2px solid#565387;
+}
+.navbar a:hover{
+  color: #3498db!important;
+}
+.App_logo{
+  height: 7vmin;
+  
+  pointer-events: none;
+  border-radius: 50%;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App_logo {
+    animation: App-logo-spin infinite 15s linear;
+  }
+}
+
+@keyframes App_logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.Applogo{
+  height: 11vmin;
+  
+  pointer-events: none;
+  border-radius: 50%;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .Applogo {
+    animation: Applogo-spin infinite 15s linear;
+  }
+}
+
+@keyframes Applogo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
