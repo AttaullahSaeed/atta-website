@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "22efe4290d122474bbeeb15fbfc15034",
+    "revision": "59410272dd98f0f5d90b2c9cd7fcb8ef",
     "url": "/atta-website/index.html"
   },
   {
-    "revision": "f002bce295bd19f7d575",
+    "revision": "fce4f9620982ebf3dfae",
     "url": "/atta-website/static/css/2.75c4ecca.chunk.css"
   },
   {
-    "revision": "b1f4b66e7b2e5524e7b9",
-    "url": "/atta-website/static/css/main.fc149a6c.chunk.css"
+    "revision": "64101b6b4fb770de65ad",
+    "url": "/atta-website/static/css/main.4581219a.chunk.css"
   },
   {
-    "revision": "f002bce295bd19f7d575",
-    "url": "/atta-website/static/js/2.47978aa4.chunk.js"
+    "revision": "fce4f9620982ebf3dfae",
+    "url": "/atta-website/static/js/2.c400cf4b.chunk.js"
   },
   {
     "revision": "dd8c0453bd67f3c5389d7862555b87e5",
-    "url": "/atta-website/static/js/2.47978aa4.chunk.js.LICENSE.txt"
+    "url": "/atta-website/static/js/2.c400cf4b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b1f4b66e7b2e5524e7b9",
-    "url": "/atta-website/static/js/main.07590a66.chunk.js"
+    "revision": "64101b6b4fb770de65ad",
+    "url": "/atta-website/static/js/main.774d23b9.chunk.js"
   },
   {
     "revision": "19b06a4a802c18c24a0e",
@@ -76,8 +76,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/atta-website/static/media/mol.d85b4cde.jpg"
   },
   {
-    "revision": "92fd313bd3b3e17ffc2a38f55e67c40e",
-    "url": "/atta-website/static/media/ol.92fd313b.jpg"
+    "revision": "308bc91552137976e56e59a773554324",
+    "url": "/atta-website/static/media/nature.308bc915.svg"
+  },
+  {
+    "revision": "b36e664a80837ae8405dd4ec1d4c64f7",
+    "url": "/atta-website/static/media/pro.b36e664a.svg"
+  },
+  {
+    "revision": "ebbb73893ddc1748baad1fbf0c4fd7e1",
+    "url": "/atta-website/static/media/pvg.ebbb7389.svg"
+  },
+  {
+    "revision": "6cdd94460d634b1f8ae6081815911e04",
+    "url": "/atta-website/static/media/running.6cdd9446.svg"
   },
   {
     "revision": "2be2f1097640466ad14803835c36eb8d",
