@@ -1,7 +1,7 @@
 import React from 'react';
-import ol from './img/ol.jpg';
-import meo1 from './img/meo1.jpg';
-import meo3 from './img/meo3.jpg';
+import pvg from './attaimg/pvg.svg'
+import running from './attaimg/running.svg'
+import nature from './attaimg/nature.svg'
 
 
 
@@ -16,14 +16,14 @@ const Header= () =>{
   </ol>
   <div className="carousel-inner">
     <div className="carousel-item active">
-      <img src={ol} className="d-block w-100" alt="ol"/>
+      <img src={pvg} className="d-block w-100" alt="ol"/>
     </div>
     <div className="carousel-item">
-      <img src={meo1} className="d-block w-100" alt="meo1"/>
+      <img src={running} className="d-block w-100" alt="meo1"/>
     </div>
     
     <div className="carousel-item">
-      <img src={meo3} className="d-block w-100" alt="meo3"/>
+      <img src={nature} className="d-block w-100" alt="nature"/>
     </div>
   </div>
   <a className="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

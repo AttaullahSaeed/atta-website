@@ -102,23 +102,7 @@
   }
 }
 
-.Applogo{
-  height: 11vmin;
+.app-logo{
+  width: 90%;
   
-  pointer-events: none;
-  border-radius: 50%;
-}
-@media (prefers-reduced-motion: no-preference) {
-  .Applogo {
-    animation: Applogo-spin infinite 15s linear;
-  }
-}
-
-@keyframes Applogo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }

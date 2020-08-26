@@ -50,30 +50,7 @@ const Contact= () =>{
    name="fathername" value={data.fathername} onChange={InputEvent}
   placeholder="Enter Your Father Name..."/>
 
-
-
-
-<legend class="col-form-label col-sm-2 pt-0 my-3 ">Gender
-      
-          <div className="row">
-
-        <div class="form-check ">
-          <input className="form-check-input" type="radio" name="gridRadios" id="gridRadios1" value="option1 "/>
-          <label className="form-check-label" for="gridRadios1">
-            Male
-          </label>
-        </div>
-
-
         
-        <div class="form-check ">
-          <input class="form-check-input" type="radio" name="gridRadios" id="gridRadios2" value="option2 "/>
-          <label class="form-check-label" for="gridRadios2">
-            Female
-          </label>
-        </div>
-        </div>
-        </legend> <br/>
 
 
   <label for="exampleFormControlInput1" class="form-label">Mobile No</label>

@@ -8,7 +8,7 @@ const Cardz = (props) =>{
   return(
     <>
   
-                   <div className="col-md-4 col-10 mx-auto">
+                   <div className="col-md-5 col-10 mx-auto">
                    <div className="card">
             <img src={props.imgsrc} className="card-img-top" alt={props.imgsrc} height="280"/>
            <div className="card-body">

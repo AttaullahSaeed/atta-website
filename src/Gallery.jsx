@@ -16,7 +16,7 @@ const Gallery = () =>{
     <>
      <div className="text-center my-5  mx-auto">
                 <h1 className="display-4 text-success aaatttaa">
-                <img src={logo} alt="logo" className="Applogo"/>
+               
                 Gallery</h1>
                 <hr className="w-25 mx-auto"></hr><br/>
             </div>
@@ -62,7 +62,7 @@ const Gallery = () =>{
                    <div className="col-xxl-12 col-12 py-2 text-center">
                        <h1 className="text-white kkk">Check out my videos</h1>
                        <p>Never give up on somethings that u can't go a day without thinking about</p>
-                       <a href="https://www.youtube.com/watch?v=NIMLv_W3JOw">
+                       <a href="https://www.youtube.com/results?search_query=react+js">
                        <button type="button" class="btn btn-outline-success">
                        
                        <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-camera-video" fill="currentColor" xmlns="http://www.w3.org/2000/svg">

@@ -1,8 +1,8 @@
 .Atta-gg{
-    animation: agypichy 2s linear infinite;
+    animation: ataa 4s linear infinite;
     animation-direction:alternate ;
 }
-@keyframes agypichy {
-    from{ padding-left: 40px;}
-    to {padding-right: 40px;}
+@keyframes ataa {
+    from{ padding-left: 80px;}
+    to {padding-right: 80px;}
 }
